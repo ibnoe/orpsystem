@@ -1,0 +1,1 @@
+﻿select enum_range(null::status_quotation);
